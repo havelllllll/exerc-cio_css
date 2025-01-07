@@ -39,7 +39,7 @@ header li a{
 }
 
 .articles article img{
-    /*height: 180px;*/
+    height: 250px;
     width: 100%;
 }
 
@@ -102,4 +102,20 @@ section h2{
 
 #economy .articles article a{
     background-color: #ff9f1a;
+}
+
+#enterte {
+    background-color: #BA55D3;
+}
+
+#enterte .articles article a{
+    background-color: rebeccapurple;
+}
+
+#tecnology {
+    background-color: #87CEFA;
+}
+
+#tecnology .articles article a{
+    background-color: #4169E1;
 }
